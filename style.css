@@ -221,7 +221,7 @@ table, th, td {
 }
 .blog-box{
   width:350px;
-  background-color:rgb(184, 97, 255);
+  background-color:rgb(199, 136, 251);
   border: 1px solid rgb(228, 17, 204);
   margin: 20px;
 }
@@ -241,4 +241,28 @@ table, th, td {
     color: rgb(104, 3, 111);
     font-size: 0.9rem;
 }
+.blog-text .blog-title{
+  font-size: 1.3rem;
+  font-weight: 500;
+  color:rgb(0, 90, 179)
+}
+.blog-text p{
+  color: #7173f8;
+  font-size: 0.9rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 9;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 20px 0px;
+}
+.blog-text a{
+  color: rgb(67, 6, 132);
+}
+.blog-text a:hover{
+  color: rgb(251, 10, 186);
+  transition: all ease 0.3s;
+}
+
+
 
