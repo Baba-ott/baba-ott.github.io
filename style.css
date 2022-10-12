@@ -396,3 +396,26 @@ logo for hz  */
 	left: 550px; 
   color: rgb(20, 96, 183);
 }
+
+
+
+/* blog pages */
+
+.text-boxblog h1{
+  width: 90%;
+  color: rgb(103, 72, 100);
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
+.text-boxblog h2{
+  width: 90%;
+  color: rgb(103, 72, 100);
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
