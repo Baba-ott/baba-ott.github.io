@@ -419,3 +419,30 @@ logo for hz  */
   transform: translate(-50%,-50%);
   text-align: center;
 }
+.text-boxblog h3{
+  width: 90%;
+  color: rgb(103, 72, 100);
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
+.text-boxblog h4{
+  width: 90%;
+  color: rgb(103, 72, 100);
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
+.text-boxblog h5{
+  width: 90%;
+  color: rgb(103, 72, 100);
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
