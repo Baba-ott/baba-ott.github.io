@@ -178,6 +178,21 @@ nav.fa{
     position: fixed;
     right: 700px;
     top: 230px;
+  }
+    .text-box h4{
+      margin: 500px 0 400px;
+      font-size: 14px;
+      color: rgb(169, 63, 196);
+      width: 50%;
+      padding: 12px 20px;
+      margin: 12px 0;
+      box-sizing: border-box;
+      border: 2px solid rgb(135, 249, 249);
+      border-radius: 4px;
+      position: fixed;
+      right: 350px;
+      top: 400px;
+      text-align: left;
 
   }
   .text-box ul{
@@ -190,6 +205,8 @@ nav.fa{
     color:rgb(182, 70, 210);
   }
   
+  /*NBSA boundary bar */
+
   progress {
     border-radius: 4px; 
     width: 20%;
@@ -375,10 +392,8 @@ start for side nav */
   .sidenav a {font-size: 18px;}
 }
 
-
-
-
 /* end of side nav
+
 
 logo for hz  */
 
@@ -398,26 +413,27 @@ logo for hz  */
 }
 
 
-
 /* blog pages */
 
 .text-boxblog h1{
   width: 90%;
   color: rgb(103, 72, 100);
   position: absolute;
-  top: 40%;
+  top: 20%;
   left: 50%;
   transform: translate(-50%,-50%);
   text-align: center;
+  font-size: 14px;
 }
 .text-boxblog h2{
   width: 90%;
   color: rgb(103, 72, 100);
   position: absolute;
-  top: 40%;
+  top: 30%;
   left: 50%;
   transform: translate(-50%,-50%);
   text-align: center;
+  font-size: 14px;
 }
 .text-boxblog h3{
   width: 90%;
@@ -425,24 +441,28 @@ logo for hz  */
   position: absolute;
   top: 40%;
   left: 50%;
+  right: 30%;
   transform: translate(-50%,-50%);
   text-align: center;
+  font-size: 14px;
 }
 .text-boxblog h4{
   width: 90%;
   color: rgb(103, 72, 100);
   position: absolute;
-  top: 40%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
   text-align: center;
+  font-size: 14px;
 }
 .text-boxblog h5{
   width: 90%;
   color: rgb(103, 72, 100);
   position: absolute;
-  top: 40%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%,-50%);
   text-align: center;
+  font-size: 14px;
 }
